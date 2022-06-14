@@ -21,3 +21,10 @@ https://cloud.google.com/translate/docs/setup
 tps://cloud.google.com/docs/authentication/getting-started
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html(Must Download for AWS sentiment analysis)
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-creds
+
+
+@AUTHORS of this Tool
+Freddy Vasquez
+Srujan Vepuri
+Prince Owoborode
+Jade Lathbridge
